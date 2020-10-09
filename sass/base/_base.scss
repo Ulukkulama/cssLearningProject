@@ -1,0 +1,19 @@
+// base thing of project
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  /* font-size: 10px; */
+  /* leve font size as a precentage then user can change it */
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+}
